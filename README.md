@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/operative-sh-playwright-consolelogs-mcp-badge.png)](https://mseep.ai/app/operative-sh-playwright-consolelogs-mcp)
+
 # Console and Network Logs Playwright MCP Server
 
 [![smithery badge](https://smithery.ai/badge/@Lumeva-AI/playwright-consolelogs-mcp)](https://smithery.ai/server/@Lumeva-AI/playwright-consolelogs-mcp)
